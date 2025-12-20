@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "旦那様とのラブラブ・ラブソング",
+  "base_artist": "フェンリース(CV:釘宮理恵)",
+  "createdAt": "2025-12-20T10:11:34.161897Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "旦那様とのラブラブ・ラブソング",
+      "artist": "フェンリース(CV:釘宮理恵)",
+      "has_synced": true,
+      "path": "select/01_旦那様とのラブラブ・ラブソング_フェンリース(CV_釘宮理恵).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "旦那様とのラブラブ・ラブソング",
+      "artist": "フェンリース(CV:釘宮理恵)",
+      "has_synced": false,
+      "path": "select/pl_01_旦那様とのラブラブ・ラブソング_フェンリース(CV_釘宮理恵).txt"
+    }
+  ]
+}
